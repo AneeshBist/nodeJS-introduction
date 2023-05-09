@@ -1,0 +1,197 @@
+[
+  {
+    "id": 7375,
+    "uid": "32e54d25-2a13-4ca1-a1ab-dc38b7d28527",
+    "password": "fJVrIxCjNB",
+    "first_name": "Garnet",
+    "last_name": "Schoen",
+    "username": "garnet.schoen",
+    "email": "garnet.schoen@email.com",
+    "avatar": "https://robohash.org/velnumquammagni.png?size=300x300&set=set1",
+    "gender": "Genderqueer",
+    "phone_number": "+45 422-998-8157",
+    "social_insurance_number": "693178048",
+    "date_of_birth": "1997-03-02",
+    "employment": {
+      "title": "Accounting Specialist",
+      "key_skill": "Proactive"
+    },
+    "address": {
+      "city": "West Mable",
+      "street_name": "Hauck Turnpike",
+      "street_address": "4494 Sal Rapids",
+      "zip_code": "23689",
+      "state": "South Dakota",
+      "country": "United States",
+      "coordinates": {
+        "lat": 15.716067295555064,
+        "lng": -94.40383294939105
+      }
+    },
+    "credit_card": {
+      "cc_number": "4826-6158-8501-9348"
+    },
+    "subscription": {
+      "plan": "Diamond",
+      "status": "Blocked",
+      "payment_method": "Paypal",
+      "term": "Payment in advance"
+    }
+  },
+  {
+    "id": 2203,
+    "uid": "1eced4db-2dbc-4d6b-a270-6ef60217ea04",
+    "password": "57BGguqhsc",
+    "first_name": "Emmie",
+    "last_name": "Pagac",
+    "username": "emmie.pagac",
+    "email": "emmie.pagac@email.com",
+    "avatar": "https://robohash.org/laudantiumetet.png?size=300x300&set=set1",
+    "gender": "Genderfluid",
+    "phone_number": "+596 (577) 841-1383 x393",
+    "social_insurance_number": "629353194",
+    "date_of_birth": "1974-07-07",
+    "employment": {
+      "title": "Principal Legal Agent",
+      "key_skill": "Networking skills"
+    },
+    "address": {
+      "city": "Kingland",
+      "street_name": "Russell Estates",
+      "street_address": "666 Goodwin Camp",
+      "zip_code": "97982-0115",
+      "state": "Hawaii",
+      "country": "United States",
+      "coordinates": {
+        "lat": -81.00858336161612,
+        "lng": 154.69556646692092
+      }
+    },
+    "credit_card": {
+      "cc_number": "4997011008334"
+    },
+    "subscription": {
+      "plan": "Premium",
+      "status": "Pending",
+      "payment_method": "Bitcoins",
+      "term": "Annual"
+    }
+  },
+  {
+    "id": 8679,
+    "uid": "b11ee692-4671-4366-84cf-58b4679ebef5",
+    "password": "43xHXeFBzj",
+    "first_name": "Kristy",
+    "last_name": "Swift",
+    "username": "kristy.swift",
+    "email": "kristy.swift@email.com",
+    "avatar": "https://robohash.org/auteminventoreplaceat.png?size=300x300&set=set1",
+    "gender": "Agender",
+    "phone_number": "+263 229.561.4466 x40706",
+    "social_insurance_number": "476801030",
+    "date_of_birth": "1995-11-21",
+    "employment": {
+      "title": "Advertising Liaison",
+      "key_skill": "Fast learner"
+    },
+    "address": {
+      "city": "Susannahfort",
+      "street_name": "Mosciski Drive",
+      "street_address": "511 Mayer Vista",
+      "zip_code": "27554",
+      "state": "Iowa",
+      "country": "United States",
+      "coordinates": {
+        "lat": 53.529663846131285,
+        "lng": -63.3748530219338
+      }
+    },
+    "credit_card": {
+      "cc_number": "6771-8973-3708-6519"
+    },
+    "subscription": {
+      "plan": "Standard",
+      "status": "Blocked",
+      "payment_method": "WeChat Pay",
+      "term": "Full subscription"
+    }
+  },
+  {
+    "id": 9222,
+    "uid": "508aa3b3-1b5b-4cac-b62d-ae15df426bbb",
+    "password": "Xx6rkNOn2u",
+    "first_name": "Evita",
+    "last_name": "Kozey",
+    "username": "evita.kozey",
+    "email": "evita.kozey@email.com",
+    "avatar": "https://robohash.org/sitquisvoluptate.png?size=300x300&set=set1",
+    "gender": "Genderfluid",
+    "phone_number": "+355 316-578-0009 x48717",
+    "social_insurance_number": "666478763",
+    "date_of_birth": "1970-11-06",
+    "employment": {
+      "title": "Retail Assistant",
+      "key_skill": "Leadership"
+    },
+    "address": {
+      "city": "Lake Bookermouth",
+      "street_name": "Powlowski Street",
+      "street_address": "7057 Margrett Port",
+      "zip_code": "89455-9341",
+      "state": "Washington",
+      "country": "United States",
+      "coordinates": {
+        "lat": -24.359931334328053,
+        "lng": 37.216695846805266
+      }
+    },
+    "credit_card": {
+      "cc_number": "6771-8981-9897-1856"
+    },
+    "subscription": {
+      "plan": "Professional",
+      "status": "Active",
+      "payment_method": "Bitcoins",
+      "term": "Monthly"
+    }
+  },
+  {
+    "id": 1255,
+    "uid": "8180ac15-f11b-49dc-acc6-98009effba0e",
+    "password": "0x6QJAG5aI",
+    "first_name": "Eli",
+    "last_name": "Lemke",
+    "username": "eli.lemke",
+    "email": "eli.lemke@email.com",
+    "avatar": "https://robohash.org/liberodoloresnihil.png?size=300x300&set=set1",
+    "gender": "Non-binary",
+    "phone_number": "+767 (814) 500-6495 x170",
+    "social_insurance_number": "537024606",
+    "date_of_birth": "1960-08-26",
+    "employment": {
+      "title": "Real-Estate Associate",
+      "key_skill": "Problem solving"
+    },
+    "address": {
+      "city": "Pourosstad",
+      "street_name": "Lang Ferry",
+      "street_address": "25167 Perry Shoal",
+      "zip_code": "73643-0780",
+      "state": "New Hampshire",
+      "country": "United States",
+      "coordinates": {
+        "lat": 29.344315500743846,
+        "lng": 89.70869588766567
+      }
+    },
+    "credit_card": {
+      "cc_number": "4299418956896"
+    },
+    "subscription": {
+      "plan": "Free Trial",
+      "status": "Pending",
+      "payment_method": "Visa checkout",
+      "term": "Monthly"
+    }
+  }
+]
