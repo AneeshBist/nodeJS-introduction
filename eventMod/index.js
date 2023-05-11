@@ -4,7 +4,7 @@
  * you can create-, fire-, listen for- your own events
  * Example 1 - Registering for the event to be fired only one time using once.
  * Example 2 - Create an event instance and register a couple of callbacks
- * Example 3 - Registering fot he event with callback parameters
+ * Example 3 - Registering for the event with callback parameters
  */
 
 const { ok } = require("assert");

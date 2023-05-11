@@ -1,0 +1,5 @@
+Hi this is text file.
+Sole purpose of this file is to check streaming.
+Created as a part of Stream module.
+This is the 21st section of the series.
+Hope to see the results soon.
